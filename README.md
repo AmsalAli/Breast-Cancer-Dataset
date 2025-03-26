@@ -1,4 +1,4 @@
-# Leveraging Random Forest, Decision Tree, SVM, Logistic Regression and KNN for Predicting Brest Cancer
+# Leveraging Machine Learning Approaches for Breast Cancer Prediction 
 
 This repository contains a machine learning project focused on predicting Brest Cancer using various algorithms, including Random Forest, Decision Tree, SVM, Logistic Regression and K-Nearest Neighbors (KNN).
 

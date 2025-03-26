@@ -1,6 +1,6 @@
 # Leveraging Random Forest, Decision Tree, SVM, Logistic Regression and KNN for Predicting Brest Cancer
 
-This repository contains a machine learning project focused on predicting brest cancer using various algorithms, including Random Forest, Decision Tree, SVM, Logistic Regression and K-Nearest Neighbors (KNN).
+This repository contains a machine learning project focused on predicting Brest Cancer using various algorithms, including Random Forest, Decision Tree, SVM, Logistic Regression and K-Nearest Neighbors (KNN).
 
 # About the Dataset
 
@@ -32,7 +32,7 @@ To obtain the dataset, follow one of the methods below:
 
 - Clone the repository:
   ```bash
-  git clone https://github.com/yourusername/crypto-price-prediction.git
+  git clone https://github.com/yourusername/cancer.git
 - The dataset CSV file (e.g., breast_cancer_dataset.csv) will be available in this directory.
 
 ### Example Code to Load the Dataset
@@ -42,7 +42,7 @@ To load the CSV dataset into your Python script using pandas, use the following 
 import pandas as pd
 
 # Load the dataset
-df = pd.read_csv('datasets/cryptocurrency_data.csv')
+df = pd.read_csv('breast_cancer_dataset.csv')
 
 # Display the first few rows
 print(df.head())

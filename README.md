@@ -18,3 +18,33 @@ This dataset will be used for training and evaluating classification algorithms 
 
 This dataset serves as a valuable resource for exploring techniques in classification, feature selection, and model evaluation.
 
+## Download the Dataset
+
+To obtain the dataset, follow one of the methods below:
+
+### 1. From GitHub Website
+
+- Navigate to the `datasets` directory within this repository.
+- Click on the dataset CSV file (e.g., `breast_cancer_dataset`).
+- Once opened, click on the **Download** button (or right-click on **Raw** and select **Save Link As...**) to save it locally.
+
+### 2. Using Git Command Line
+
+- Clone the repository:
+  ```bash
+  git clone https://github.com/yourusername/crypto-price-prediction.git
+- The dataset CSV file (e.g., breast_cancer_dataset.csv) will be available in this directory.
+
+### Example Code to Load the Dataset
+
+To load the CSV dataset into your Python script using pandas, use the following code snippet:
+```bash
+import pandas as pd
+
+# Load the dataset
+df = pd.read_csv('datasets/cryptocurrency_data.csv')
+
+# Display the first few rows
+print(df.head())
+
+

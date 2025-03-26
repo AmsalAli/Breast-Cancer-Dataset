@@ -32,7 +32,7 @@ To obtain the dataset, follow one of the methods below:
 
 - Clone the repository:
   ```bash
-  git clone https://github.com/yourusername/cancer.git
+  git clone https://github.com/yourusername/Breast-Cancer-Dataset.git
 - The dataset CSV file (e.g., breast_cancer_dataset.csv) will be available in this directory.
 
 ### Example Code to Load the Dataset
